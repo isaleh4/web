@@ -1,0 +1,18 @@
+.fliex{
+    width: 800px;
+    background-color: cadetblue;
+    padding: 20px;
+    margin: 20px auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.fliex div{
+background-color: red;
+color: whitesmoke;
+width:calc(80%/3);
+text-align: center;
+padding: 20px;
+font-size: larger;
+align-items: flex-start;
+}
